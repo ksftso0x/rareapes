@@ -1,0 +1,39 @@
+{
+  "name": "Songbird Apes #38",
+  "description": "1000 utility apes living on the Songbird Network. 100% of royalties shared to holders, claimable on our main website!",
+  "image": "https://bafybeib6lxluwtxqyfgsgpzoqlnencykim4je4ctlvlwzwen4d6tco5rgm.ipfs.nftstorage.link//38.png",
+  "dna": "85b522f0511591cc820232996077b378347308ce",
+  "edition": 38,
+  "date": 1693319237992,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Hot Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Green Scarf"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Horned Rim"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snake Tongue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

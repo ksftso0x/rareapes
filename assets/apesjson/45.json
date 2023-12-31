@@ -1,0 +1,39 @@
+{
+  "name": "Songbird Apes #45",
+  "description": "1000 utility apes living on the Songbird Network. 100% of royalties shared to holders, claimable on our main website!",
+  "image": "https://bafybeib6lxluwtxqyfgsgpzoqlnencykim4je4ctlvlwzwen4d6tco5rgm.ipfs.nftstorage.link//45.png",
+  "dna": "855ba2ec1108cfbf3e22cc5aebafdf89d878c280",
+  "edition": 45,
+  "date": 1693319245761,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Springfield Yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman Shirt"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thug Bitmap"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Japanese Headband"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Zipper"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
